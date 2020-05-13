@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="logical racional" id="EF2D63F7-55F7-2F11-DC83-83A8B2F8C4F2" version="3.5">
+<createdBy>Alumno</createdBy>
+<createdTime>2020-03-12 16:51:36 UTC</createdTime>
+<ownerDesignName>logical racional</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>EF2D63F7-55F7-2F11-DC83-83A8B2F8C4F2</designId>
+</OSDM_Design>
